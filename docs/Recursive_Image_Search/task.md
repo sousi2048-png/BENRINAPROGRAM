@@ -1,7 +1,0 @@
-- [ ] Create Implementation Plan <!-- id: 0 -->
-- [ ] Implement recursive search in `combine_images.py` <!-- id: 1 -->
-    - [ ] Add `argparse` support for input directory <!-- id: 2 -->
-    - [ ] Update searching logic to use `os.walk` <!-- id: 3 -->
-    - [ ] Ensure full paths are used for image loading <!-- id: 4 -->
-- [x] Verify changes <!-- id: 5 -->
-- [x] Update README in Japanese <!-- id: 6 -->

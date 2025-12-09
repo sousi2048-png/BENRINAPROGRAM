@@ -1,6 +1,0 @@
-- [ ] Create Implementation Plan <!-- id: 0 -->
-- [ ] Modify `combine_images.py` <!-- id: 1 -->
-- [x] Create `combined_images` directory if missing <!-- id: 2 -->
-    - [x] Set default output path to `combined_images` <!-- id: 3 -->
-- [x] Verify changes <!-- id: 4 -->
-- [x] Update README in Japanese <!-- id: 5 -->
