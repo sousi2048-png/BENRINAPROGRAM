@@ -1,4 +1,4 @@
-#python combine_images.py /path/to/images
+#python combine_images.py /path/to/images /home/haseg/Mapillary_Scraping/dataset_japan/images --cols 4 --rows 5
 
 import os
 from PIL import Image
